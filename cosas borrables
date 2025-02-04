@@ -1,0 +1,50 @@
+ <!--  <!DOCTYPE html>
+    <html lang="es">
+    <head>
+        <meta charset="UTF-8"/>
+        <title>Objetivo 6 - Agenda 2030</title>
+        <link rel="stylesheet" href="styles.css" type="text/css">
+    </head>
+    <body>
+        <header>
+        <nav class="navbar">
+            <ul>
+                <li><a href="./info.html">Info</a></li>
+                <li><a href="./objectives.html">Objetivos</a></li>
+                <li><a href="./consecuences.html">Consecuencias</a></li>
+                <li><a href="./difficulties.html">Dificultades</a></li>
+                <li><a href="./news.html">Noticias</a></li>
+            </ul>
+        </nav>
+        </header>
+        <main>
+        <div>   
+            <h1>Objetivo 6 - Agenda 2030</h1>
+            <p>El Objetivo 6 de la Agenda 2030 se centra en garantizar la disponibilidad y la gestión sostenible del agua y el saneamiento para todos.</p>    
+        </div> 
+        <section id="info">
+            <h2>Info</h2>
+            <p>Información detallada sobre el Objetivo 6.</p>
+        </section>
+        <section id="objetivos">
+            <h2>Objetivos</h2>
+            <p>Los objetivos específicos del Objetivo 6.</p>
+        </section>
+        <section id="consecuencias">
+            <h2>Consecuencias</h2>
+            <p>Consecuencias de no alcanzar el Objetivo 6.</p>
+        </section>
+        <section id="dificultades">
+            <h2>Dificultades</h2>
+            <p>Dificultades para alcanzar el Objetivo 6.</p>
+        </section>
+        <section id="noticias">
+            <h2>Noticias</h2>
+            <p>Últimas noticias sobre el Objetivo 6.</p>
+        </section>
+    </main>
+    <footer>
+
+    </footer>
+    </body>
+    </html> -->
